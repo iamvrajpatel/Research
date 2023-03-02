@@ -1,1 +1,5 @@
 Dataset in .csv form
+
+btcusdt.csv is renko chart data converted by renko.ipynb from candlestick data
+
+whereas, others are in candlestick data form taken from dukascopy.com [online data provider]
